@@ -9,6 +9,7 @@ This project implements a machine learning-based fake news detection model, capa
 #### 5. Testing with Manual Input
 #### 6. Function Documentation
 
+
 ### 1. Data Collection
 The datasets True.csv and Fake.csv are loaded from Google Drive. They contain labeled examples of true and fake news articles, respectively. A label column is added to identify real news with a 1 and fake news with a 0.
 
